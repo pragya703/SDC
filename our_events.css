@@ -1,0 +1,29 @@
+.event {
+  background-color: whitesmoke;
+  margin-bottom: 30px;
+}
+
+.event_heading {
+  text-align: center;
+  font-size: 25px;
+  font-family: 'Roboto', sans-serif;
+  color: black;
+  padding: 13px;
+  padding-left: 18px;
+  border-bottom: 1.5px solid #808080;
+}
+
+.event-img {
+  display: block;
+  margin: 15px auto;
+  width: 92%;
+  box-sizing: border-box;
+}
+
+.event_text {
+  width: 92%;
+  text-align: justify;
+  display: block;
+  margin: auto;
+  padding-bottom: 20px;
+}
